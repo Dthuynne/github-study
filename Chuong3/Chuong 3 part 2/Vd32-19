@@ -1,0 +1,7 @@
+n=int(input("n="))
+i=1
+S=0
+for i in range(n):
+    i=i+1
+    S=S+i
+print(S)
