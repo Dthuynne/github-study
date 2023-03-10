@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 for i in range(1,11):
     print(i,end="")
+=======
+for i in range(1,11):
+    print(i,end="")
+>>>>>>> a6686becd1f7f7f4dfe82a5e483613462bd7894c

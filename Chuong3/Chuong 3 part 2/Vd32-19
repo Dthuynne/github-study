@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 n=int(input("n="))
 i=1
 S=0
 for i in range(n):
     i=i+1
     S=S+i
+=======
+n=int(input("n="))
+i=1
+S=0
+for i in range(n):
+    i=i+1
+    S=S+i
+>>>>>>> a6686becd1f7f7f4dfe82a5e483613462bd7894c
 print(S)
